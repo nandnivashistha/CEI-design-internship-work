@@ -10,7 +10,7 @@ print("Hello, World!")
 
 #program2-
 # This line stores your name in a variable
-name = "Archit Khandelwal"
+name = "Nandni vashistha"
 # This line stores your age in a variable
 age = 20
 # This line stores your favorite hobby in a variable
