@@ -1,6 +1,6 @@
 #Q2. Create variables to store your name, age, and favorite hobby. Print these variables.
 
-name = "Archit Khandelwal"
+name = "Nandni"
 age = 20
 hobby = "Reading"
 
